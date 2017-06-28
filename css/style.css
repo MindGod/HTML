@@ -1,0 +1,70 @@
+header{
+	background-color: lightblue;
+	height: 200px;
+}
+main{
+	background-color: lightyellow;
+	height: 500px;
+	display:flex;
+	flex-direction: row;
+}
+footer{
+	background-color: lightgreen;
+	height: 200px;
+}
+.main{
+	background-color: lightred;
+	height: 500px;
+	width: 757.5px;
+}
+.main2{
+	background-color: green;
+	height: 500px;
+	width: 757.5px;
+}
+.pic{
+	height:250px;
+	width: 60%;
+	margin: 0 auto;
+
+}
+.pic2{
+	background-color: blue;
+	height:250px;
+	width:60%;
+	margin: 0 auto;
+
+}
+.menu{
+	text-align: center;
+	font-size: 75px;
+}
+.footer{
+	text-align:center;
+	font-size: 75px;
+}
+.text{
+	background-color: red;
+	height:250px;
+	width:60%;
+	margin: 0 auto;
+}
+.text2{
+	background-color: red;
+	height:250px;
+	width:60%;
+	margin: 0 auto;
+}
+.image{
+	height: 250px;
+	width: 100%;
+}
+.p-text{
+	text-align: center;
+	font-size: 25px;
+}
+.logo{
+	height: 200px;
+	margin-top: -75px;
+	margin-left: -25px;
+}
