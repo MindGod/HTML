@@ -15,12 +15,12 @@ footer{
 .main{
 	background-color: lightred;
 	height: 500px;
-	width: 757.5px;
+	width: 951.5px;
 }
 .main2{
 	background-color: green;
 	height: 500px;
-	width: 757.5px;
+	width: 951.5px;
 }
 .pic{
 	height:250px;
@@ -67,4 +67,39 @@ footer{
 	height: 200px;
 	margin-top: -75px;
 	margin-left: -25px;
+}
+ul {
+  padding-top: 30px;
+}
+
+li {
+  float: right;
+  padding: 5px 15px 5px 15px;
+  margin-right: 10px;
+  border: 1px solid white;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+li:hover {
+  background-color: grey;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+nav {
+	float:  right;
 }
